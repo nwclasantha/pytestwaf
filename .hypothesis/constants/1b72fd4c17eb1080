@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\AppData\Roaming\Python\Python313\site-packages\email_validator\__init__.py
+# hypothesis_version: 6.151.11
+
+['EmailNotValidError', 'EmailSyntaxError', 'ValidatedEmail', '__version__', 'arpa', 'caching_resolver', 'invalid', 'local', 'localhost', 'onion', 'test', 'validate_email']

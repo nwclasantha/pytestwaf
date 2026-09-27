@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\report\email.py
+# hypothesis_version: 6.151.11
+
+[60.0, 200, 400, 413, 429, 500, 'Content-Type', 'GTW_EMAIL_SERVER_URL', 'application/json', 'email', 'msg', 'unknown error']

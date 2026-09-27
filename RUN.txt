@@ -1,0 +1,10 @@
+
+Single target (same as before):
+docker run --rm -it -v "D:\MY SOLUTIONS\pytestwaf\reports:/app/reports" pytestwaf --url=https://www.abc1.com/
+
+
+docker run --rm -it -v C:\Users\nwcla\Desktop\pytestwaf\reports:/app/reports wallarm/pytestwaf --url=https://www.abc1.com/--noEmailReport --includePayloads=true --skipWAFBlockCheck --reportFormat=html
+
+docker run --rm -it -v C:\Users\nwcla\Desktop\pytestwaf\reports:/app/reports wallarm/pytestwaf --url=https://www.abc1.com/--noEmailReport --includePayloads=true --skipWAFBlockCheck --reportFormat=html --workers=1 --sendDelay=200 --randomDelay=200
+
+

@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\scanner\clients\gohttp\client.py
+# hypothesis_version: 6.151.11
+
+[10.0, 30.0, ':', 'Host', 'UserAgent', 'name', 'session_cookies.json', 'utf-8', 'value']

@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\db\load.py
+# hypothesis_version: 6.151.11
+
+['*.y*ml', '.yaml', '.yml', 'encoder', 'false', 'payload', 'placeholder', 'type', 'unknown']

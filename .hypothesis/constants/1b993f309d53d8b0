@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\AppData\Roaming\Python\Python313\site-packages\structlog\testing.py
+# hypothesis_version: 6.151.11
+
+['CapturedCall', 'CapturingLogger', 'LogCapture', 'ReturnLogger', 'ReturnLoggerFactory', 'capture_logs', 'log_level', 'processors']

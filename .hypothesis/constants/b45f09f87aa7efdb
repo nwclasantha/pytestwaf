@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\payload\placeholder\useragent.py
+# hypothesis_version: 6.151.11
+
+['GET', 'User-Agent', 'UserAgent']

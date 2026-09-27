@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\config\config.py
+# hypothesis_version: 6.151.11
+
+[0.0, 200, 400, 403, 404, 'generic', 'gohttp', 'info', 'pdf', 'reports', 'testcases']

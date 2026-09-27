@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\scanner\types\__init__.py
+# hypothesis_version: 6.151.11
+
+['ChromeDPTasks', 'GoHTTPRequest', 'GoHTTPResponse', 'HTTPClientType', 'Request', 'Response', 'ResponseMeta']

@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\scanner\scanner.py
+# hypothesis_version: 6.151.11
+
+[0.95, 1.0, 1.5, 10.0, 1000.0, 400, 'GET', 'GraphQL', 'GraphQL pre-check', 'Scanning finished', 'Scanning started', 'Sending requests...', 'Test status', 'URL', 'URLParam', 'WAF pre-check', 'Windows', 'available', 'blocked_test', 'case_name', 'chrome', 'debug_header_value', 'done', 'encoder', 'failed_test', 'gRPC', 'gRPC pre-check', 'is_true_positive', 'not available', 'passed_test', 'payload', 'placeholder', 'replace', 'send request failed', 'set_name', 'started', 'test_type', 'unresolved_test', 'utf-8']

@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\AppData\Roaming\Python\Python313\site-packages\twisted\python\failure.py
+# hypothesis_version: 6.151.11
+
+['    %s\n', ' ( Globals )\n', ' (chained Failure)\n', ' (pickled) ', ' [ Locals ]\n', '%s: %s: %s\n', '%s:%d: %s(...)\n', '<{} {}: {}>', 'Failure: ', 'Traceback', 'Twisted', '_T_Callable', '__builtins__', '__traceback__', '_frames', '_parents', 'brief', 'broken str', 'default', 'frames', 'parents', 'pickled', 'stack', 'tb', 'verbose']

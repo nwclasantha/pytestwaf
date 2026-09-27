@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\payload\encoder\xmlentity.py
+# hypothesis_version: 6.151.11
+
+['XMLEntity', 'string', 'unicode']

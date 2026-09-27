@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\payload\placeholder\requestbody.py
+# hypothesis_version: 6.151.11
+
+['POST', 'RequestBody']

@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\report\helpers.py
+# hypothesis_version: 6.151.11
+
+[0.0, 60.0, 63.0, 67.0, 70.0, 73.0, 77.0, 80.0, 83.0, 87.0, 90.0, 93.0, 97.0, 150, 1100, 'A', 'A+', 'A-', 'B', 'B+', 'B-', 'C', 'C+', 'C-', 'D', 'D+', 'D-', 'F', 'N/A', 'a', 'api', 'b', 'c', 'css_class_suffix', 'd', 'f', 'mark', 'na', 'percentage']

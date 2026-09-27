@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\report\console.py
+# hypothesis_version: 6.151.11
+
+[-1.0, '\nSummary:', '%c', 'API Security', 'Application Security', 'Average', 'Blocked', 'Bypassed', 'Failed', 'Percentage, %', 'Sent', 'Test case', 'Test set', 'True-Positive Tests:', 'Type', 'Unresolved', 'args', 'date', 'fp', 'grid', 'json', 'n/a', 'project_name', 'score', 'text', 'url', 'utf-8']

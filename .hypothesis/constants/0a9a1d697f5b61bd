@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\openapi\template.py
+# hypothesis_version: 6.151.11
+
+['&', '/', '?', 'Content-Type', 'Template', 'connect', 'content', 'delete', 'get', 'head', 'options', 'parameters', 'patch', 'paths', 'post', 'put', 'requestBody', 'schema', 'string', 'trace', 'value']

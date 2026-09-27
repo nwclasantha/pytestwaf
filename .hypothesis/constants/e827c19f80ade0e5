@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\AppData\Roaming\Python\Python313\site-packages\twisted\python\_tzhelper.py
+# hypothesis_version: 6.151.11
+
+['%s%02i:%02i', '+', '-', 'FixedOffsetTimeZone', 'UTC', 'UTC%z']

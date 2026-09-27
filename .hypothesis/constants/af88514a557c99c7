@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\openapi\parameters.py
+# hypothesis_version: 6.151.11
+
+['%20', ',', 'array', 'boolean', 'exclusiveMaximum', 'exclusiveMinimum', 'false', 'header', 'headers', 'in', 'integer', 'items', 'maxLength', 'maximum', 'minLength', 'minimum', 'name', 'number', 'path', 'path_parameters', 'query', 'query_parameters', 'schema', 'string', 'type', '{', '|', '}']

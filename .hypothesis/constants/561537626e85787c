@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\parser.py
+# hypothesis_version: 6.151.11
+
+['!', '!!', 'Parser', 'ParserError', 'RoundTripParser', 'TAG', 'YAML', '_parser', 'block', 'flow', 'get_event', 'tag:yaml.org,2002:', 'tags', 'typ', 'while parsing a node']

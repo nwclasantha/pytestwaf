@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\report\__init__.py
+# hypothesis_version: 6.151.11
+
+['ExportFullReport', 'IsNoneReportFormat', 'ReportFormats', 'ValidateReportFormat']

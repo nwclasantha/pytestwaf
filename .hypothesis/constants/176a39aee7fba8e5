@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\AppData\Roaming\Python\Python313\site-packages\twisted\python\util.py
+# hypothesis_version: 6.151.11
+
+[b'\n', ' %s=', ', ', '-', '/dev/tty', '<', '=', '>', 'Cannot obtain a TTY', 'Confirm password: ', 'FancyEqMixin', 'FancyStrMixin', 'InsensitiveDict', 'IntervalDifferential', 'LineLog', 'OrderedDict', 'Password: ', 'Twisted', '_T', '__class__', 'addPluginDir', 'euid', 'fancybasename', 'getPassword', 'getPluginDirs', 'gidFromString', 'isatty', 'makeStatBar', 'nameToLabel', 'padTo', 'plugins', 'println', 'r+', 'raises', 'runAsEffectiveUser', 'searchupwards', 'self', 'sibpath', 'spewer', 'switchUID', 'twisted.python.util', 'uid', 'uidFromString', 'uniquify', 'untilConcludes', '~/.twisted', '~/TwistedPlugins']

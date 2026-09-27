@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\scanner\clients\grpc\client.py
+# hypothesis_version: 6.151.11
+
+[3.0, 200, 400, 401, 403, 404, 409, 429, 499, 500, 501, 503, 504, 'ServiceFooBar', 'utf-8']

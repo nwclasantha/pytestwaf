@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\report\chart.py
+# hypothesis_version: 6.151.11
+
+[0.0, '-', 'api', 'app', 'blocked', 'bypassed', 'graphql', 'grpc', 'grpc (unavailable)', 'unknown']

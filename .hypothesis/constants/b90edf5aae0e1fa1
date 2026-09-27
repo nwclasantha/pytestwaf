@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\openapi\schema.py
+# hypothesis_version: 6.151.11
+
+['&', '-', 'allOf', 'anyOf', 'application/json', 'application/xml', 'array', 'boolean', 'exclusiveMaximum', 'exclusiveMinimum', 'explode', 'false', 'integer', 'items', 'maxLength', 'max_length', 'maximum', 'minItems', 'minLength', 'min_length', 'minimum', 'number', 'object', 'oneOf', 'param_spec', 'param_type', 'properties', 'root', 'string', 'text/plain', 'type', 'unicode', 'value']

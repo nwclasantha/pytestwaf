@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\report\report.py
+# hypothesis_version: 6.151.11
+
+[249, '%c', '.html', '/', '\\', 'args', 'blocked', 'blocked_tests', 'bypassed', 'bypassed_tests', 'date', 'failed', 'failed_tests', 'file://', 'file:///', 'fp', 'html', 'json', 'none', 'pdf', 'percentage', 'project_name', 'resolved_tests', 'score', 'sent', 'summary', 'test_sets', 'total_sent', 'true_negative_tests', 'true_positive_tests', 'unresolved', 'unresolved_tests', 'url', 'utf-8', 'w']

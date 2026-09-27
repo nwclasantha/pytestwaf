@@ -1,0 +1,4 @@
+# file: C:\Users\nwcla\Desktop\pytestwaf\src\gotestwaf\scanner\clients\graphql\client.py
+# hypothesis_version: 6.151.11
+
+[30.0, 200, '/GraphQL', '/_graphql', '/api/graphql', '/graphql', ':', 'Host', 'UserAgent', '__typename', 'data', 'query', 'utf-8', '{__typename}']
